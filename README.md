@@ -1,3 +1,4 @@
+Outdated, use: https://github.com/CODeRUS/aliendalvik-control
 # alien-tools
 Collection of tools to call android commands in alien-dalvik from the outside.
 
